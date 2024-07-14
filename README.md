@@ -12,8 +12,10 @@ GUI-based application to teach users the inter-workings of various sorting algor
 
 ### Executing program
 
-* 
-* Step-by-step bullets
+* Install Java JDK
+* Open command Prompt
+* Type: "Javac SortingAlgorithms.java"
+* Then, Type: "Java SortingAlgorithms"
 ```
 code blocks for commands
 ```
